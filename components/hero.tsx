@@ -14,7 +14,7 @@ export default function Hero() {
                 className="absolute top-0 left-0 min-h-full min-w-full object-cover"
             >
                 <source
-                    src="https://videocdn.cdnpk.net/videos/ec1661c4-6f1c-4bcf-a1dc-7ab96aa0d7b2/horizontal/previews/clear/large.mp4?token=exp=1770933675~hmac=0b61a5c84f2a61f82e53e4c1902587ba8284c10d1366aa4a2cb749fb49aed47b"
+                    src="/vids/Hero-Bg.mp4"
                     type="video/mp4"
                 />
             </video>
